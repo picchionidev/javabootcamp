@@ -1,20 +1,29 @@
-README - Aprendizado de Java no Bootcamp Java Cloud Native
+<h1 align="left">Java Cloud Native BootCamp Progress</h1>
 
-📌 Descrição
+###
 
-Este repositório contém projetos e exercícios desenvolvidos durante o meu aprendizado no Bootcamp Java Cloud Native do Bradesco, patrocinado pela Microsoft. 
+<h2 align="left">About Repository</h2>
 
-🛠️ Tecnologias Utilizadas
+###
 
-Linguagem: Java
+<p align="left">This repository contains projects and exercises developed during my learning in the Java Cloud Native Bootcamp by Bradesco, sponsored by Microsoft.</p>
 
-📦 Estrutura do Repositório
+###
 
-Os projetos e exercícios estão organizados em diretórios, conforme os tópicos abordados no bootcamp. Cada pasta contém códigos-fonte comentados e explicações para facilitar o entendimento.
+<h2 align="left">Technologies</h2>
 
-📌 Objetivo
+###
 
-Meu objetivo com este repositório é aprender Java do zero e iniciar no mundo da programação, documentando meu progresso e compartilhando códigos que possam ser úteis para outros iniciantes.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
-Autor: Henrique Picchioni
+###
 
+<h2 align="left">BootCamp Goal</h2>
+
+###
+
+<p align="left">My goal with this BootCamp is to learn Java from scratch and start in the programming world, documenting my progress and sharing code that may be useful to other beginners.</p>
+
+###
