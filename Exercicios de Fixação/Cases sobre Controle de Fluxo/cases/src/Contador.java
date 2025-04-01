@@ -15,12 +15,7 @@ public class Contador {
                 if(primeiroparametro<segundoparametro)
                     throw new ParametrosInvalidosException();
                 else{
-                    int i ;
-                    int contador = primeiroparametro-segundoparametro;
-                        
-                    for(i=0;i<contador;i++){
-                            System.out.printf("Imprimindo número %d\n",i+1);
-                    }
+                    contar();
                     check = true;}
 
                 } 
@@ -40,5 +35,14 @@ public class Contador {
             segundoparametro = scanner.nextInt();
             scanner.nextLine(); 
          
+    }
+    public static void contar(){
+        int i ;
+        int contador = primeiroparametro-segundoparametro;
+            
+        for(i=0;i<contador;i++){
+                System.out.printf("Imprimindo número %d\n",i+1);
+        }
+
     }
 }
