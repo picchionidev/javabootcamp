@@ -15,7 +15,7 @@ public class Carrinho {
         // Controle do loop do menu
         boolean loop = false;
 
-        // Estrutura de repetição para manter o menu ativo até o usuário finalizar
+        // Estrutura de repetição para manter o menu ativo até o usario finalizar
         while (!loop) {
             System.out.println("Você deseja:");
             System.out.println("[1] ADICIONAR PRODUTO AO CARRINHO");
