@@ -7,10 +7,15 @@ Este projeto é um Gerenciador de Biblioteca simples, desenvolvido em Java, que 
 O sistema funciona via entrada no console, onde o usuário pode inserir informações sobre os livros e visualizar a lista completa após o cadastro.
 
 ⚙ Funcionalidades
+
 ✔ Adicionar Livros 📖 – O usuário pode inserir título, autor e ano de publicação de um livro.
+
 ✔ Listar Livros 📋 – Exibe todos os livros cadastrados.
+
 ✔ Uso de ArrayList 🗃️ – Armazena dinamicamente os livros adicionados.
+
 ✔ Estrutura Modular 🏗️ – O código está dividido em três classes:
+
 
 📂 Estrutura dos Arquivos
 📁 BibliotecaJava/
