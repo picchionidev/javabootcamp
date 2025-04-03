@@ -16,6 +16,7 @@ Este projeto consiste em um Simulador de Carrinho de Compras desenvolvido em Jav
 
 🏗 Conceitos Utilizados:
 
+
 🔹 Programação Orientada a Objetos (POO) → Uso de classes e objetos.
 
 🔹 Encapsulamento → Atributos privados e métodos getters e setters.
