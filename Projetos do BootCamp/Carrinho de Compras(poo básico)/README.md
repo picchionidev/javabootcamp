@@ -25,9 +25,6 @@ Este projeto consiste em um Simulador de Carrinho de Compras desenvolvido em Jav
 
 🔹 Coleções (ArrayList) → Armazena os produtos no carrinho.
 
-🔹 Manipulação de entrada (Scanner) → Captura dados do usuário.
-
-🔹 Formatação de saída (String.format) → Exibição adequada dos preços.
 
 
 🛠 Como Funciona?
