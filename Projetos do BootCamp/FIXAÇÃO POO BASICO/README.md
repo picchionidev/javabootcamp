@@ -15,7 +15,9 @@ O sistema funciona via entrada no console, onde o usuário pode inserir informa�
 📂 Estrutura dos Arquivos
 📁 BibliotecaJava/
 ├── 📄 Main.java – Ponto de entrada do programa.
+
 ├── 📄 Livro.java – Classe que representa um livro.
+
 ├── 📄 GerenciadorBiblioteca.java – Classe que gerencia a lista de livros.
 
 🛠 Tecnologias Utilizadas
@@ -23,6 +25,10 @@ O sistema funciona via entrada no console, onde o usuário pode inserir informa�
 
 🔄 Fluxo de Funcionamento
 1️⃣ O usuário escolhe se deseja adicionar um livro.
+
 2️⃣ Se SIM, ele insere título, autor e ano de publicação.
+
 3️⃣ O sistema armazena o livro e volta ao menu.
+
 4️⃣ Se o usuário escolher NÃO, o sistema exibe a lista de livros cadastrados e finaliza a execução.
+
