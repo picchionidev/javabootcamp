@@ -14,6 +14,7 @@ O sistema funciona via entrada no console, onde o usuário pode inserir informa�
 
 📂 Estrutura dos Arquivos
 📁 BibliotecaJava/
+
 ├── 📄 Main.java – Ponto de entrada do programa.
 
 ├── 📄 Livro.java – Classe que representa um livro.
@@ -24,6 +25,7 @@ O sistema funciona via entrada no console, onde o usuário pode inserir informa�
 🔹 Java – Linguagem principal do projeto.
 
 🔄 Fluxo de Funcionamento
+
 1️⃣ O usuário escolhe se deseja adicionar um livro.
 
 2️⃣ Se SIM, ele insere título, autor e ano de publicação.
