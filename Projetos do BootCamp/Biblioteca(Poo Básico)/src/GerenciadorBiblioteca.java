@@ -10,13 +10,13 @@ public class GerenciadorBiblioteca {
         livros.add(livro);
     }
 
-    // Método para listar todos os livros armazenadosssssss
+    // Método para listar todos os livros armazenadossssssss
     public void listarLivros() {
         System.out.println("Ok, agora vou listar os livros já adicionados.");
 
         for (int i = 0; i < livros.size(); i++) {
             System.out.println(livros.get(i)); // Utiliza o método toString() da classe Livro
-            System.out.println("------------------------------------------"); // Linha separadora
+            System.out.println("-----------------------------------------"); // Linha separadora
         }
     }
 }
