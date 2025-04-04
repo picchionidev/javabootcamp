@@ -17,7 +17,7 @@ public class Carrinho {
 
         // Estrutura de repetição para manter o menu ativo até o usario finalizar
         while (!loop) {
-            System.out.println("Você deseja:");
+            System.out.println("Você desejaria:");
             System.out.println("[1] ADICIONAR PRODUTO AO CARRINHO");
             System.out.println("[2] EXIBIR VALOR TOTAL E FINALIZAR COMPRA");
 
