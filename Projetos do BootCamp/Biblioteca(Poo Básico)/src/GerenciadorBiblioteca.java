@@ -10,7 +10,7 @@ public class GerenciadorBiblioteca {
         livros.add(livro);
     }
 
-    // Método para listar todos os livros armazenadoss
+    // Método para listar todos os livros armazenado
     public void listarLivros() {
         System.out.println("Ok, agora vou listar os livros já adicionados.");
 
