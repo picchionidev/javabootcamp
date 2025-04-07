@@ -3,9 +3,6 @@ public class Livro {
     private String autor;
     private int anodepublicacao;
 
-    public Livro(String string, String string2, int i) {
-        //TODO Auto-generated constructor stub
-    }
 
     // Métodos getters e setters para acessar e modificar os atributos
     public String getTitulo() {
