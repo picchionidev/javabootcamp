@@ -28,6 +28,8 @@ public class Livro {
     public void setAnodepublicacao(int anodepublicacao) {
         this.anodepublicacao = anodepublicacao;
     }
+    
+
 
     // Método toString() para exibição correta das informações do livro
     public String toString() {
