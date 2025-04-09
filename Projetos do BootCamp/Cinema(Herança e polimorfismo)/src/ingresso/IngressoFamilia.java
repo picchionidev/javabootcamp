@@ -26,7 +26,7 @@ public final class IngressoFamilia extends Ingresso {
         return valorTotal;
     }
 
-    @Override
+   
     public void mostrarValorTotal(Scanner scanner) {
         System.out.printf("O valor total a ser pago é %.2f%n", calcularValorTotal(scanner));
     }

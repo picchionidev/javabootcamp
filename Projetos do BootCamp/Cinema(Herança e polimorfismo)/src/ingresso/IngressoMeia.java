@@ -15,7 +15,7 @@ public final class IngressoMeia extends Ingresso {
         return getPrice() / 2;
     }
 
-    @Override
+    
     public void mostrarValorTotal(Scanner scanner) {
         System.out.printf("O valor total a ser pago é %.2f%n", calcularValorTotal());
     }
