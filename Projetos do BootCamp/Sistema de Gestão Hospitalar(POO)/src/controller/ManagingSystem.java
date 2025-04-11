@@ -22,11 +22,11 @@ public class ManagingSystem {
 
         while (!menuloop) {
             System.out.println("Menu:");
-            System.out.println("1️ - Register Pacient");
-            System.out.println("2️ - Register Doctor");
-            System.out.println("3️ - Register Employee");
-            System.out.println("4️ - Show All Records");
-            System.out.println("0️ - Exit");
+            System.out.println("1 - Register Pacient");
+            System.out.println("2 - Register Doctor");
+            System.out.println("3 - Register Employee");
+            System.out.println("4 - Show All Records");
+            System.out.println("0 - Exit");
 
             int choice = scanner.nextInt();
             scanner.nextLine();
@@ -117,21 +117,21 @@ public class ManagingSystem {
 
     // Show data from all people
     private void showAllData() {
-        System.out.println("----------🧑‍⚕️ Pacients List ----------");
+        System.out.println("----------Pacients List ----------");
         for (Pacient pacient : pacients) {
             pacient.showData();
             pacient.takeAction();
             pacient.rest();
         }
 
-        System.out.println("----------👨‍⚕️ Doctors List ----------");
+        System.out.println("----------Doctors List ----------");
         for (Doctor doctor : doctors) {
             doctor.showData();
             doctor.takeAction();
             doctor.performingSurgery();
         }
 
-        System.out.println("----------👷 Employees List ----------");
+        System.out.println("----------Employees List ----------");
         for (Employee employee : employees) {
             employee.showData();
             employee.takeAction();
