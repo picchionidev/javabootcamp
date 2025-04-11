@@ -15,9 +15,10 @@ This project was developed for educational purposes as part of my learning journ
 - Abstract classes and inheritance
 - Method overriding
 - Encapsulation
-- Polymorphism (I utilized polymorphism in my project, but I chose not to use a single list for all objects in order to keep the lists separate and maintain a clean/organized structure)
+- Polymorphism 
 - Object-oriented programming
 - ArrayLists and dynamic data storage
+> (I utilized polymorphism in my project, but I chose not to use a single list for all objects in order to keep the lists separate and maintain a clean/organized structure) 
 
 > 🧠 **Note:** All class and menu content is written in English to help improve my English skills while coding.✍️
 
