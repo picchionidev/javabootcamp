@@ -22,24 +22,36 @@ This project was developed for educational purposes as part of my learning journ
 
 > 🧠 **Note:** All class and menu content is written in English to help improve my English skills while coding.✍️
 
-#
-🗂️ Project Structure
+## 📁Project Structure
+
 📁 src/
+
 ├── main/
-│   └── Main.java
+   
+       ├── Main.java
+
 ├── controller/
-│   └── ManagingSystem.java
+  
+       ├── ManagingSystem.java
+
 └── models/
-    ├── Person.java
-    ├── Doctor.java
-    ├── Employee.java
-    └── Pacient.java
-🎯 Features
-Register new pacients, doctors, and employees
+    
+       ├── Person.java
+   
+       ├── Doctor.java
+   
+       ├── Employee.java
+   
+       ├── Pacient.java
+   
 
-View all registered data
+## 📌Features
 
-Demonstrate use of class-specific actions (e.g., rest, perform surgery, make spreadsheets)
+-Register new pacients, doctors, and employees
+
+-View all registered data
+
+-View all class-specific actions (e.g., rest, perform surgery, make spreadsheets)
 
 
 
