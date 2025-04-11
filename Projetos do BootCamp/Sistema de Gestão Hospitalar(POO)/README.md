@@ -1,18 +1,44 @@
-## Getting Started
+# 🏥 Medical Management System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a Java-based system for managing medical data, including:
 
-## Folder Structure
+- Pacients (Patients)
+- Doctors
+- Employees
 
-The workspace contains two folders by default, where:
+The program allows you to register and list all records for each category using a console menu.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📚 About the Project
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+This project was developed for educational purposes as part of my learning journey in Java. It covers key concepts such as:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Abstract classes and inheritance
+- Method overriding
+- Encapsulation
+- Polymorphism (I utilized polymorphism in my project, but I chose not to use a single list for all objects in order to keep the lists separate and maintain a clean/organized structure)
+- Object-oriented programming
+- ArrayLists and dynamic data storage
 
-## Dependency Management
+> 🧠 **Note:** All class and menu content is written in English to help improve my English skills while coding.✍️
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+#
+🗂️ Project Structure
+📁 src/
+├── main/
+│   └── Main.java
+├── controller/
+│   └── ManagingSystem.java
+└── models/
+    ├── Person.java
+    ├── Doctor.java
+    ├── Employee.java
+    └── Pacient.java
+🎯 Features
+Register new pacients, doctors, and employees
+
+View all registered data
+
+Demonstrate use of class-specific actions (e.g., rest, perform surgery, make spreadsheets)
+
+
+
