@@ -1,51 +1,46 @@
-iPhone Simulation Project 📱
-This project simulates the core functionalities of an iPhone, such as a Music Player 🎵, Phone 📞, and Web Browser 🌐. It was created to demonstrate my knowledge of Object-Oriented Programming in Java, while also helping me practice and improve my English skills 🇬🇧.
+# iPhone Simulation Project 📱
 
-Features:
+Este projeto simula as funcionalidades principais de um iPhone, como um Reprodutor de Música 🎵, Telefone 📞 e Navegador Web 🌐. Foi criado para demonstrar meus conhecimentos de Programação Orientada a Objetos em Java, além de ajudar a praticar e melhorar minhas habilidades no inglês 🇬🇧.
 
-Music Player 🎶: Play, pause, and select songs.
+## Features:
 
-Phone 📱: Call, answer calls, and start voicemail.
+### 🎶 Music Player
+- Reproduzir, pausar e selecionar músicas.
 
-Web Browser 🌍: Display pages, open new tabs, and refresh pages.
+### 📱 Phone
+- Realizar chamadas, atender chamadas e iniciar caixa postal.
 
-Why English? 🗣️
+### 🌍 Web Browser
+- Exibir páginas, abrir novas abas e atualizar páginas.
 
-I chose to develop this project using English for the following reasons:
+## Why English? 🗣️
 
-Language Practice: English is essential in the programming world. By coding in English, I improve my technical vocabulary and communication skills.
+Escolhi desenvolver este projeto em inglês pelas seguintes razões:
 
-Consistency: Most programming languages, libraries, and frameworks use English for keywords, functions, and documentation.
+- **Prática de Idiomas**: O inglês é essencial no mundo da programação. Ao codificar em inglês, melhoro meu vocabulário técnico e habilidades de comunicação.
+- **Consistência**: A maioria das linguagens de programação, bibliotecas e frameworks usam o inglês para palavras-chave, funções e documentação.
+- **Alcance Global**: Usar inglês torna o projeto acessível a um público mais amplo, incluindo desenvolvedores de diferentes países.
 
-Global Reach: Using English makes the project accessible to a wider audience, including developers from different countries.
+## Project Structure 🗂️
 
-Project Structure 🗂️
-The project is organized into different packages:
+O projeto está organizado em diferentes pacotes:
 
-iphone/
-│
-├── interfaces/
-│   ├── MusicPlayer.java
-│   ├── Phone.java
-│   └── WebBrowser.java
-│
-├── controller/
-│   └── Iphone.java
-│
-├── Main.java
+iphone/ │ ├── interfaces/ │ ├── MusicPlayer.java │ ├── Phone.java │ └── WebBrowser.java │ ├── controller/ │ └── Iphone.java │ ├── Main.java
 
-Interfaces 📄
+markdown
+Copiar
+Editar
 
-MusicPlayer: Defines the methods related to the music player functionality 🎧.
+### Interfaces 📄
 
-Phone: Defines the methods related to the phone functionality 📞.
+- **MusicPlayer**: Define os métodos relacionados à funcionalidade do reprodutor de música 🎧.
+- **Phone**: Define os métodos relacionados à funcionalidade do telefone 📞.
+- **WebBrowser**: Define os métodos relacionados à funcionalidade do navegador web 🌍.
 
-WebBrowser: Defines the methods related to the web browser functionality 🌍.
+### Controller 🧳
 
-Controller 🧳
+- **Iphone**: A classe que implementa as interfaces e define a lógica para cada funcionalidade.
 
-Iphone: The class that implements the interfaces and defines the logic for each functionality.
+### Main Class 🖥️
 
-Main Class 🖥️
-
-Main.java: Contains the user interface with a menu for the user to interact with the iPhone simulation
+- **Main.java**: Contém a interface do usuário com um menu para o usuário interagir com a simulação d
