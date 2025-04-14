@@ -1,18 +1,51 @@
-## Getting Started
+iPhone Simulation Project 📱
+This project simulates the core functionalities of an iPhone, such as a Music Player 🎵, Phone 📞, and Web Browser 🌐. It was created to demonstrate my knowledge of Object-Oriented Programming in Java, while also helping me practice and improve my English skills 🇬🇧.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Features:
 
-## Folder Structure
+Music Player 🎶: Play, pause, and select songs.
 
-The workspace contains two folders by default, where:
+Phone 📱: Call, answer calls, and start voicemail.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Web Browser 🌍: Display pages, open new tabs, and refresh pages.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Why English? 🗣️
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+I chose to develop this project using English for the following reasons:
 
-## Dependency Management
+Language Practice: English is essential in the programming world. By coding in English, I improve my technical vocabulary and communication skills.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Consistency: Most programming languages, libraries, and frameworks use English for keywords, functions, and documentation.
+
+Global Reach: Using English makes the project accessible to a wider audience, including developers from different countries.
+
+Project Structure 🗂️
+The project is organized into different packages:
+
+iphone/
+│
+├── interfaces/
+│   ├── MusicPlayer.java
+│   ├── Phone.java
+│   └── WebBrowser.java
+│
+├── controller/
+│   └── Iphone.java
+│
+├── Main.java
+
+Interfaces 📄
+
+MusicPlayer: Defines the methods related to the music player functionality 🎧.
+
+Phone: Defines the methods related to the phone functionality 📞.
+
+WebBrowser: Defines the methods related to the web browser functionality 🌍.
+
+Controller 🧳
+
+Iphone: The class that implements the interfaces and defines the logic for each functionality.
+
+Main Class 🖥️
+
+Main.java: Contains the user interface with a menu for the user to interact with the iPhone simulation
